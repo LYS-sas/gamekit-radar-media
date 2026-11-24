@@ -1,2 +1,5 @@
 # gamekit-radar-media
-Vidéos GAMEKIT RADAR destinées à la publication (TikTok / YouTube Shorts)
+
+Vidéos GAMEKIT RADAR prêtes à publier (TikTok / YouTube Shorts), hébergées ici pour la programmation via Metricool.
+
+Usage de fan non commercial. Images officielles : Rockstar Games.
